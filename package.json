@@ -1,7 +1,7 @@
 {
-  "name": "polyfilljs",
+  "name": "polyfill",
   "version": "0.1.0",
-  "description": "Javascript ECMA5Script Polyfill Extensions",
+  "description": "Polyfilljs is a JavaScript library that helps you build websites for legacy browsers.",
   "main": "src/polyfill.js",
   "scripts": {
     "test": "grunt qunit"
@@ -18,7 +18,7 @@
     "javascript",
     "ecma5"
   ],
-  "author": "insanehong <intro957@gmail.com>",
+  "author": "Hackrslab <hackrslab@gmail.com>",
   "license": "MIT",
   "readmeFilename": "README.md",
   "bugs": {
