@@ -1,0 +1,36 @@
+{
+  "name": "polyfilljs",
+  "version": "0.1.0",
+  "description": "Javascript ECMA5Script Polyfill Extensions",
+  "main": "src/polyfill.js",
+  "scripts": {
+    "test": "grunt qunit"
+  },
+	"engines": {
+    "node": ">= 0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hackrslab/polyfilljs.git"
+  },
+  "keywords": [
+    "folyfill",
+    "javascript",
+    "ecma5"
+  ],
+  "author": "insanehong <intro957@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/hackrslab/polyfilljs/issues"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "0.6.0",
+    "grunt-contrib-qunit": "0.2.2",
+    "grunt-contrib-concat": "0.3.0",
+    "grunt-contrib-uglify": "0.2.2",
+    "grunt-contrib-watch": "0.4.4",
+    "grunt-contrib-clean": "0.4.1",
+    "grunt": "0.4.1"
+  }
+}
